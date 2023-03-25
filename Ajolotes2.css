@@ -1,0 +1,44 @@
+/* Encabezao/ Titulo del Blog*/
+header {
+  width:100%
+  height:200px;
+  border-top-right-radius:10px;
+  border-top-left-radius:10px;
+  padding:30px;
+  text-align:center;
+  color:#333;
+  background-color:white;
+}
+
+header img{
+  float: left;
+    width: 100px;
+    margin-left: 20px;
+  padding-top:20px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(fondo2.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+BODY { margin: 5em }             /* todos los mÃƒÂ¡rgenes 5em */
+P    { margin: 2em 4em }         /* mÃƒÂ¡rgenes superior e inferior 2em,
+                                    mÃƒÂ¡rgenes izquierdo y derecho 4em */
+DIV { margin: 1em 2em 3em 4em } /* margen superior 1em,
+                                    right margin 2em,
+                                    bottom margin 3em,
+                                    left margin 4em */
+
+li {
+  width: 50%;
+  border: black 3px solid;
+  background-color: #E0FFFF;
+  margin-left: auto;
+  margin-right: auto;
+}
+
